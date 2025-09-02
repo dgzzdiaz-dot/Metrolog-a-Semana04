@@ -1,2 +1,2 @@
-# Metrolog-a-Semana04
-Análisis estadístico aplicado en la salud en Python usando Pandas y Statistics.
+# Código generado en Python
+Este repositorio tiene la finalidad de archivar las actividades realizadas en Metrología Clínica, dando lugar a la programación aplicada en la salud.
